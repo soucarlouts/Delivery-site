@@ -1,0 +1,15 @@
+        body {
+            background-color: #111; /* Dark background color */
+            display: flex;
+            align-items: center;
+            justify-content: center;
+            height: 100vh;
+            margin: 0;
+        }
+
+        .flame-text {
+            font-family: 'Arial', sans-serif;
+            font-size: 3em;
+            color: #ff5722; /* Red color */
+            text-align: center;
+        }
